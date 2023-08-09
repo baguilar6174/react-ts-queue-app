@@ -1,3 +1,3 @@
-# react-ts-queue-app
+# Data structure Queue
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-stguyc)
+Implementation of the queue data structure, using Typescript.
